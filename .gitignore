@@ -1,4 +1,7 @@
+env.py
+backup.sh
+counter
+__pycache__
 .vscode
+test/
 test.py
-/env.py
-
